@@ -27,6 +27,7 @@
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) | Profundizar en algoritmos y programación orientada a objetos.
 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) | Almacenamiento y gestión de bases de datos.
 
 ### 📊 Mis estadísticas:
 [![GitHub Streak](https://streak-stats.demolab.com?user=elPez-21&theme=tokyonight)](https://git.io/streak-stats)
