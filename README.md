@@ -29,5 +29,7 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) | Almacenamiento y gestión de bases de datos.
 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) | Bases de programación estructurada y desarrollo web backend.
+
 ### 📊 Mis estadísticas:
 [![GitHub Streak](https://streak-stats.demolab.com?user=elPez-21&theme=tokyonight)](https://git.io/streak-stats)
