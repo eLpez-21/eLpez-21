@@ -18,9 +18,8 @@
 ### 🚀 Mi ruta de aprendizaje:
 
 * **Lo que ya manejo y practico:**
-  * 🌐 **HTML5 y CSS3:** Creación de estructuras web y estilos.
-  * ⚡ **JavaScript básico:** Lógica de programación y funcionalidad interactiva.
-
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | Estructura web, diseño y maquetación visual. |
+ ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) | Lógica de programación, interactividad y scripts básicos. |
 * **Lo que planeo aprender próximamente:**
   * 🐙 **Git:** Para aprender a versionar mi código y subir mis proyectos.
   * ☕ **Java / Python:** Para profundizar en lógica de programación.
