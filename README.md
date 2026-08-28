@@ -20,15 +20,13 @@
 * **Lo que ya manejo y practico:**
 
   
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | Estructura web, diseño y maquetación visual. |
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | Estructura web, diseño y maquetación visual. 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) | Lógica de programación, interactividad y scripts básicos. |
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) | Lógica de programación, interactividad y scripts básicos. 
 * **Lo que planeo aprender próximamente:**
-  * 🐙 **Git:** Para aprender a versionar mi código y subir mis proyectos.
-  * ☕ **Java / Python:** Para profundizar en lógica de programación.
-  * 🗄️ **Bases de datos (SQL):** Para gestionar información.
+  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) | Profundizar en algoritmos y programación orientada a objetos.
 
----
 
 ### 📊 Mis estadísticas:
 [![GitHub Streak](https://streak-stats.demolab.com?user=elPez-21&theme=tokyonight)](https://git.io/streak-stats)
